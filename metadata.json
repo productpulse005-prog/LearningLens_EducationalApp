@@ -1,0 +1,6 @@
+{
+  "name": "Learning Lens",
+  "description": "AI Learning Intelligence Layer for teachers in low-resource and multigrade classrooms to detect misconceptions, group students, and personalize interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
